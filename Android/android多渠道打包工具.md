@@ -7,5 +7,10 @@ VasDolly是一种快速多渠道打包工具，同时支持基于V1签名和V2�
 基于walle工具的多渠道打包脚本
 ## [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin)
 packer-ng-plugin 是下一代Android渠道打包工具Gradle插件，支持极速打包，100个渠道包只需要10秒钟，速度是 gradle-packer-plugin 的300倍以上，可方便的用于CI系统集成，同时提供命令行打包脚本，渠道读取提供Python和C语言的实现。
-
+```
+添加zip注释方式
+利用android签名不校验zip文件注释信息的漏洞，apk本质是一个zip包，将渠道信息写入zip文件注释内将不受签名限制 
+打包签名一个无渠道信息的apk完成后，复制此apk并将不同渠道信息字符串分别写入新生成的apk文件 
+100个渠道包只需10秒
+```
 ## [这个一个关于怎样在Android Stuido里使用productFlavors的示例](https://github.com/lendylongli/ProductFlavorsAdDemo)
