@@ -1,4 +1,7 @@
 # Android多渠道打包工具
+## productFlavors方案
+android studio自带的多渠道打包方案，功能非常强大，不仅仅是识别渠道信息，还能使用不同的源代码、资源等几乎所有不同渠道的打包需求。但这种方式同样需要每个渠道都重新编译打包，对于只需要标记不同渠道信息的项目而言耗时太多 
+点击[这里](http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Product-flavors)可以了解更多关于productFlavors的内容
 ## [VasDolly](https://github.com/Tencent/VasDolly)
 VasDolly是一种快速多渠道打包工具，同时支持基于V1签名和V2签名进行多渠道打包。插件本身会自动检测Apk使用的签名类别，并选择合适的多渠道打包方式，对使用者来说完全透明。 V1.1.6版本已支持Android Gradle Plugin 3.0。
 ## [walle](https://github.com/Meituan-Dianping/walle)
