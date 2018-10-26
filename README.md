@@ -13,6 +13,7 @@
     + [字体替换](/Android/字体替换.md)
     + [Android主题换肤_无缝切换.md](/Android/Android主题换肤_无缝切换.md)
     + [相机相册](/Android/相机相册图片.md)
+    + [新手引导层库](/Android/新手引导层库.md)
     
     
 ###### 参考资料
