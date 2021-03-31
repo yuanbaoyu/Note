@@ -23,6 +23,8 @@
     + [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
     + [PlayerBase](https://github.com/yuanbaoyu/PlayerBase)
     + [yjPlay](https://github.com/yangchaojiang/yjPlay)
+    + [ExoPlayer](https://github.com/google/ExoPlayer)
+    + [JZVideo](https://github.com/Jzvd/JZVideo)
     
     
 ###### 参考资料
