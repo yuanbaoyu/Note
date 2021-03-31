@@ -16,6 +16,13 @@
     + [新手引导层库](/Android/新手引导层库.md)
 
 + [与 Golang 和 PHP 相关文章](https://github.com/wuYin/blog/blob/master/README.md)
++ [视频相关]
+    + [DKVideoPlayer](https://github.com/Doikki/DKVideoPlayer)
+    + [MD360Player4Android](https://github.com/ashqal/MD360Player4Android)
+    + [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
+    + [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
+    + [PlayerBase](https://github.com/yuanbaoyu/PlayerBase)
+    + [yjPlay](https://github.com/yangchaojiang/yjPlay)
     
     
 ###### 参考资料
