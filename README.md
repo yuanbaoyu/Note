@@ -29,6 +29,8 @@
     + [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 + [AndroidDevTools]
     + [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
++ [架构]
+    + [AndroidProject](https://github.com/getActivity/AndroidProject)
     
     
 ###### 参考资料
