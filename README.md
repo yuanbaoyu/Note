@@ -28,7 +28,7 @@
 + [Browser]
     + [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 + [列表]
-    + [LayoutManagerGroup](https://github.com/getActivity/AndroidProject)
+    + [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)
 + [工具]
     + [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 + [架构]
