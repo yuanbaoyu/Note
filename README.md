@@ -27,7 +27,9 @@
     + [JZVideo](https://github.com/Jzvd/JZVideo)
 + [Browser]
     + [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
-+ [AndroidDevTools]
++ [列表]
+    + [LayoutManagerGroup](https://github.com/getActivity/AndroidProject)
++ [工具]
     + [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 + [架构]
     + [AndroidProject](https://github.com/getActivity/AndroidProject)
