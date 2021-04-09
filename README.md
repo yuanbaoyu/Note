@@ -21,7 +21,7 @@
     + [MD360Player4Android](https://github.com/ashqal/MD360Player4Android)
     + [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
     + [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
-    + [PlayerBase](https://github.com/yuanbaoyu/PlayerBase)
+    + [PlayerBase](https://github.com/jiajunhui/PlayerBase)
     + [yjPlay](https://github.com/yangchaojiang/yjPlay)
     + [ExoPlayer](https://github.com/google/ExoPlayer)
     + [JZVideo](https://github.com/Jzvd/JZVideo)
