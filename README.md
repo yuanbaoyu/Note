@@ -40,5 +40,7 @@
     + [引导](https://zhuanlan.zhihu.com/p/150528739)
     + [OpenGL ES]
     + [FFmpeg开发]
+    + [https://github.com/Jackey65536/OpenGL-Demo]
+    + [https://learnopengl-cn.github.io/]
 ###### 参考资料
 1. [android中国大陆官网](https://developer.android.google.cn/)
