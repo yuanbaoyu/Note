@@ -37,7 +37,7 @@
     + [测试基础知识](https://developer.android.com/training/testing/fundamentals?hl=zh-cn#organize-code)
     + [Android单元测试](https://jsonchao.github.io/2018/07/09/%E4%B8%80%E6%96%87%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3Android%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/)
 + [音视频学习]
-    + [引导]（https://zhuanlan.zhihu.com/p/150528739）
+    + [引导](https://zhuanlan.zhihu.com/p/150528739)
     + [OpenGL ES]
     + [FFmpeg开发]
 ###### 参考资料
