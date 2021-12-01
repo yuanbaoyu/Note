@@ -42,6 +42,8 @@
     + [FFmpeg开发]
     + [https://github.com/Jackey65536/OpenGL-Demo]
     + [https://learnopengl-cn.github.io/]
++ [弹幕]
+    + [AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku)
 + [动画]
     + [Android属性动画高阶用法-Interpolator，TypeEvaluatory以及贝塞尔曲线公式的使用](https://blog.csdn.net/SilentWeek/article/details/71216571)
     + [更多动画效果](https://github.com/yuanbaoyu/AndroidViewAnimations)
