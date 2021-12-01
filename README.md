@@ -56,5 +56,7 @@
     + [快手](https://github.com/KwaiAppTeam/KOOM)
 + [日志收集]
     + [爱奇艺xCrash](https://github.com/iqiyi/xCrash)
++ [插件化]
+    + [Shadow插件化框架分析](https://zhuanlan.zhihu.com/p/74594715)
 ###### 参考资料
 1. [android中国大陆官网](https://developer.android.google.cn/)
