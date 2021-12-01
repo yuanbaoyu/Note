@@ -52,5 +52,7 @@
 + [自定义View]
     + [widget](https://github.com/yuanbaoyu/widget)
     + [侧滑](https://github.com/luckybilly/SmartSwipe?spm=a2c4e.10696291.0.0.6f4e19a4BiZiK2)
++ [高性能线上内存监控方案]
+    + [快手](https://github.com/KwaiAppTeam/KOOM)
 ###### 参考资料
 1. [android中国大陆官网](https://developer.android.google.cn/)
