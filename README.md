@@ -30,9 +30,9 @@
     + [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 + [列表]
     + [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)
-    + [Bitmap操作](https://github.com/Dawish/BitmapKit)
 + [工具]
     + [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
+    + [Bitmap操作](https://github.com/Dawish/BitmapKit)
 + [架构]
     + [AndroidProject](https://github.com/getActivity/AndroidProject)
 + [测试]
