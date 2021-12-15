@@ -33,6 +33,7 @@
 + [工具]
     + [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
     + [Bitmap操作](https://github.com/Dawish/BitmapKit)
+    + [圆角ImageView](https://github.com/yuanbaoyu/NiceImageView)
 + [架构]
     + [AndroidProject](https://github.com/getActivity/AndroidProject)
 + [测试]
