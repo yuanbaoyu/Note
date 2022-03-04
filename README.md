@@ -28,6 +28,7 @@
     + [yjPlay](https://github.com/yangchaojiang/yjPlay)
     + [ExoPlayer](https://github.com/google/ExoPlayer)
     + [JZVideo](https://github.com/Jzvd/JZVideo)
+    + [4K60帧视频实时抠图](https://github.com/PeterL1n/RobustVideoMatting)
 + [Browser]
     + [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 + [列表]
