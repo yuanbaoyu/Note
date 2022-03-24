@@ -66,5 +66,6 @@
 + [插件化]
     + [Shadow](https://github.com/Tencent/Shadow)
     + [Shadow插件化框架分析](https://zhuanlan.zhihu.com/p/74594715)
+    + [ByteX是一个基于gradle transform api和ASM的字节码插件平台](https://github.com/bytedance/ByteX)
 ###### 参考资料
 1. [android中国大陆官网](https://developer.android.google.cn/)
