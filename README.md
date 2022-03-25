@@ -64,7 +64,8 @@
 + [日志收集]
     + [爱奇艺xCrash](https://github.com/iqiyi/xCrash)
 + [性能优化]
-    + [字节混淆工具AabResGuard](https://github.com/bytedance/AabResGuard)
+    + [字节开源混淆工具AabResGuard](https://github.com/bytedance/AabResGuard)
+    + [微信开源混淆工具AndResGuard](https://github.com/shwenzhang/AndResGuard/)
 + [插件化]
     + [Shadow](https://github.com/Tencent/Shadow)
     + [Shadow插件化框架分析](https://zhuanlan.zhihu.com/p/74594715)
