@@ -30,7 +30,7 @@
     + [JZVideo](https://github.com/Jzvd/JZVideo)
     + [4K60帧视频实时抠图](https://github.com/PeterL1n/RobustVideoMatting)
     + [视频转gif图](https://github.com/qugengting/MediaPlayerForGif)
-    + [glide-transformations](https://github.com/wasabeef/glide-transformations)
+    + [Glide Transformations](https://github.com/wasabeef/glide-transformations)
 + [Browser]
     + [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 + [列表]
